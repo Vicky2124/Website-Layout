@@ -167,8 +167,36 @@
       </div>
       <div><button class="S8Button">SEND</button></div>
     </div>
-    <div class="Section9">
-      <div class="S9Row1"></div>
+   <div class="Section9">
+      <div class="S9Row1">
+            <div class="S9C1">
+             <div class="S9T">Let's design <br>together</div>
+                <div class="S9Text">There are many variations of passages of lorem ipsum available. but the maority have suffered alteration in some form, by</div>
+            </div>
+            <div class="S9C2">
+             <div class="S9T">LET US HELP YOU</div>
+                <div class="S9Text">There are many cariations of passages of Lotem Ipsum available. but the mahority have suffered alteration in some form,by</div>
+            </div>
+            <div class="S9C3">
+            <div class="S9T">INFORMATION</div>
+            <div class="S9Text" style="text-align: left;left:2pc">About Us <br> Careers <br> Sell on shopee <br> Press & News <br> Competitions <br> Terms & Conditions</div>
+            </div>
+            <div class="S9C4">
+            <div class="S9T">OUR DESIGN</div>
+            <div class="S9Text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,by</div>
+        </div>
+        <div class="S9Row2">
+            <div class="S9R2H">Enter your EMAIL
+                <div class="S9R2T">SUBSCRIBE</div>
+            </div>
+        </div>
+        <div class="S9Row3">
+            <div class="S9R3"><img src="./../Code/images/images/fb-icon.png"></div>
+            <div class="S9R3"><img src="./../Code/images/images/instagram-icon.png"></div>
+            <div class="S9R3"><img src="./../Code/images/images/twitter-icon.png"></div>
+            <div class="S9R3"><img src="./../Code/images/images/linkedin-icon.png"></div>
+            <br>All rights reserves. By HTML Design</div>
+      </div>
     </div>
   </div>
 </div>
