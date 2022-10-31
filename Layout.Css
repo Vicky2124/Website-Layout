@@ -478,3 +478,80 @@ top: 3pc;
 .S8Button:hover{
   background-color: white;
 }
+.Section9{
+    width: 100%;
+    background-color: rgb(185, 181, 181);
+    height: 600px;
+  }
+  .S9Row1{
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    top: 5pc;
+  }
+  .S9C1{
+    width: 24.7%;
+    display: inline-block;
+    height: 250px;
+  }
+  .S9C2{
+    width: 24.7%;
+    display: inline-block;
+    height: 250px;
+  }
+  .S9C3{
+    width: 24.75%;
+    display: inline-block;
+    height: 250px;
+  }
+  .S9C4{
+    width: 24.8%;
+    display: inline-block;
+    height: 250px;
+  }
+  .S9T{
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+  }
+  .S9Text{
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+  }
+  .S9Row2{
+    width: 50%;
+    float: right;
+  }
+  .S9R2H{
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    border-bottom: solid 3px;
+    padding: 10px;
+    color: rgb(109, 106, 106);
+  }
+  .S9R2H:hover{
+    color: white;
+  }
+  .S9R2T{
+    position: relative;
+    float: right;
+    padding-left: 15pc;
+    display: inline-block;
+    font-weight:800;
+    color: white;
+  }
+  .S9R2T:hover{
+    color: black;
+  }
+  .S9Row3{
+    text-align: center;
+    position: relative;
+    left: 15pc;
+    top: 8pc;
+  }
+  .S9R3{
+    display: inline-block;
+  }
